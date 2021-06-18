@@ -102,3 +102,19 @@ h4{
     font-size: 13px;
     padding-left: 18%;
 }
+
+/* .service1{
+    padding-left: 10%;
+}
+
+.service2{
+    padding-left: 38%;
+}
+
+#service3{
+    padding-left: 28%;
+} */
+
+#services-icons> img{
+    padding: 1% 0 0 20%;
+}
