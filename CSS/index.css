@@ -103,18 +103,42 @@ h4{
     padding-left: 18%;
 }
 
-/* .service1{
-    padding-left: 10%;
+#service1{
+    margin-left: 25%;
+    height: 10vh;
+    margin-top: 4%;
 }
 
-.service2{
-    padding-left: 38%;
+#service2{
+    margin-left: 40%;
+    margin-top: 3%;
 }
 
 #service3{
-    padding-left: 28%;
-} */
+    padding-left: 50%;
+}
 
-#services-icons> img{
-    padding: 1% 0 0 20%;
+.design{
+   font-size: 15px;
+   padding-left: 26%;
+}
+
+#development{
+    padding-left: 35%;
+}
+
+h5{
+    padding-left: 40%;
+    font-size: 15px;
+}
+
+.port1, .port2, .port3, .port4{
+    height: 25vh;
+    width: 18vw;
+}
+
+#portcol2{
+    height: 25vh;
+    width: 18vw;
+    margin-top: 10%;
 }
