@@ -142,3 +142,40 @@ h5{
     width: 18vw;
     margin-top: 10%;
 }
+
+.form-group{
+    background-image: url("/assets/backgrounds/c_image.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.contact{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 600;
+}
+
+.input-sm{
+    background: transparent;
+    border: 1px solid whitesmoke;
+}
+
+#name{
+    margin-left: 10%;
+    width: 10vw;
+}
+.input-sm::placeholder{
+    color: white;
+}
+
+textarea{
+    background: transparent;
+    border: 1px solid white;
+    margin: 2% 5% 5% 10%;
+}
+
+textarea::placeholder{
+    color: white;
+}
