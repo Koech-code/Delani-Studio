@@ -123,8 +123,16 @@ h4{
    padding-left: 26%;
 }
 
+.designs> p{
+    font-size: 13px;
+}
+
 #development{
     padding-left: 35%;
+}
+
+.developments> p{
+  font-size: 13px;
 }
 
 h5{
@@ -132,9 +140,18 @@ h5{
     font-size: 15px;
 }
 
+.products> p{
+    font-size: 13px;
+}
+
 .port1, .port2, .port3, .port4{
     height: 25vh;
     width: 18vw;
+}
+
+.port1:hover{
+    opacity: 0.5;
+    visibility: visible; 
 }
 
 #portcol2{
