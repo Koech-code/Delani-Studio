@@ -32,6 +32,12 @@ $ (document).ready(function(){
        $(".products").toggle();
     });
 
+// $(".works").toggle();
+// $(".port1").css("hover",function(){
+//   $(".works").show();
+// });
+
+
 });
 
 $("#submit").click(function(){
