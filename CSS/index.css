@@ -4,7 +4,7 @@ body{
 }
 
 .jumbotron, .top{
-    background-image: url("/assets/backgrounds/h_img.jpg");
+    background-image: url("../assets/backgrounds/h_img.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -74,7 +74,7 @@ h4{
 }
 
 .services{
-    background-image: url("/assets/backgrounds/s_image.jpg");
+    background-image: url("../assets/backgrounds/s_image.jpg");
     background-size: cover;
     background-position: center;
     height: 50vh;
