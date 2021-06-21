@@ -32,21 +32,15 @@ $ (document).ready(function(){
        $(".products").toggle();
     });
 
-// $(".works").toggle();
-// $(".port1").css("hover",function(){
-//   $(".works").show();
-// });
-
-
 });
 
 $("#submit").click(function(){
-    let mail=("e-mail").val();
+    let mail=$("e-mail").val();
     let name=$("#name").val();
-    if (mail==" " && name==" "){
+    if (mail==" " || name==" "){
         alert("You name should not be empty or e-mail should be valid");
-    } 
+    }
     else{
         alert("We have received your message. Thank you "+name+" for contacting us.");
-    }
+    };
 });
