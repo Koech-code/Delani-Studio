@@ -178,7 +178,7 @@ h5{
 }
 
 .form-group{
-    background-image: url("/assets/backgrounds/c_image.jpg");
+    background-image: url("../assets/backgrounds/c_image.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
